@@ -1,0 +1,11 @@
+{
+  "name": "2i2_liam_macquaire_package_1",
+  "version": "1.0.0",
+  "description": "Mon premier package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liam Macquaire",
+  "license": "ISC"
+}
